@@ -1,0 +1,1 @@
+Original template source:  "https://github.com/Azure/azure-quickstart-templates/tree/master/201-vm-custom-script-windows
